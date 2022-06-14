@@ -1,0 +1,80 @@
+
+
+$color:rgb(3, 58, 78);
+
+*{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.new-color{
+    background-color: $color;
+}
+header{
+    background-color: $color;
+}
+
+#prp-logo{
+    width: 80px;
+    height: 60px;
+    border-radius: .5rem;
+    
+}
+
+#prp-logo-big{
+    width: 400px;
+    height: 400px;
+   
+}
+
+.info-ad{
+    position: relative;
+   height: 100vh;
+
+    p{
+        color: $color;
+        font-weight: 600;
+    }
+
+    button{
+        background-color: rgb(176, 8, 70);
+        border-radius: .5rem;
+        color: white;
+        padding: .5rem;
+        border: none;
+
+        &:hover{
+            background-color: $color;
+            border: none;
+            color: white;
+        }
+        &:active{
+            background-color: $color;
+            border: none;
+        }
+        &:visited{
+            background-color: $color;
+            border: none;
+        }
+        &:link{
+            background-color: $color;
+            border: none;
+        }
+    }
+    
+}
+.to-do{
+
+    .card{
+        padding: 2rem 1rem 3rem 1rem;
+
+    }
+
+    h5{
+        font-weight: 600;
+    }
+    p{
+        font-size: 16px;
+        line-height: 2.0em;
+        font-weight: 200;
+    }
+}
