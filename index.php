@@ -522,7 +522,7 @@ require_once 'info.php';
 		</button>
 		</div>
 		<div class="modal-body">
-		<form action="index.php" method="post">
+		<form action="index.php" >
 			<input type="text" name="fname" placeholder="full name" class="form-control" required>
 			<input type="tel" name="phonenumber" placeholder="phone number" class="form-control mt-2" required>
 			<div class="form-check form-check-inline mt-2">
