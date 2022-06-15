@@ -62,9 +62,9 @@
 			  <li class="nav-item active">
 				<a class="nav-link" href="#">Home</a>
 			  </li>
-			   <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-			    <li class="nav-item"><a class="nav-link" href="#">Vision</a></li>
-				<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+			   <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+			    <li class="nav-item"><a class="nav-link" href="#vision">Vision</a></li>
+				<li class="nav-item"><a class="nav-link" href="#vision">Contact</a></li>
 			</ul>
 		  </div>
 		</div>
@@ -144,8 +144,8 @@
 			
 			<div class="col-lg-6 col-sm-6">
 				<div class="about-content pl-4 mt-4 mt-lg-0">
-					<h2 class="title-color">Imran Jino <br>Said</h2>
-					<p class="mt-4 mb-5">“Nigerians have experienced both the APC and the PDP and they are disappointed .Their choice,of course ,is PRP ,the party they know is for the poor masses and has wefare programmes that will take care of the poor.”</p>
+					<h2 class="title-color" id="about">Imran Jino <br>Said</h2>
+					<p class="mt-4 mb-5" >“Nigerians have experienced both the APC and the PDP and they are disappointed .Their choice,of course ,is PRP ,the party they know is for the poor masses and has wefare programmes that will take care of the poor.”</p>
 
 					<a href="#" class="btn btn-main-2 btn-round-full btn-icon">Vote Imran Jino<i class="icofont-simple-right ml-3"></i></a>
 				</div>
@@ -170,7 +170,7 @@
 				<div class="service-item mb-4">
 					<div class="icon d-flex align-items-center">
 						
-						<h4 class="mt-3 mb-3">Mission</h4>
+						<h4 class="mt-3 mb-3" id="vision">Mission</h4>
 					</div>
 
 					<div class="content">
