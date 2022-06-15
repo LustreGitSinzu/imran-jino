@@ -574,7 +574,7 @@
 			</div>
 			<div class="modal-footer">
 			<button type="button" class="btn btn-main-2 btn-icon btn-round" data-dismiss="modal">Close</button>
-			<input type="submit" name="submit" class="btn-main-2 btn-icon btn-round">
+			<button type="button" class="btn btn-main-2 btn-icon btn-round" data-dismiss="modal">Submit</button>
 			</div>
 		</form>
 	</div>
