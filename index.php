@@ -1,8 +1,3 @@
-<?php
-require_once 'conn.php';
-
-require_once 'info.php';
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -87,7 +82,7 @@ require_once 'info.php';
 				<div class="block">
 					<div class="divider mb-3"></div>
 					<span class="text-uppercase text-sm letter-spacing ">PRP Gubernatorial Candidate</span>
-					<h1 class="mb-3 mt-3">Your most trusted Governor</h1>
+					<h1 class="mb-3 mt-3">Your most trusted Governor Aspirant</h1>
 					
 					<p class="mb-4 pr-5">The most verified, Sustaining the quality of Katsina through integrity, honesty, and experience.</p>
 					<div class="btn-container ">
@@ -152,7 +147,7 @@ require_once 'info.php';
 					<h2 class="title-color">Imran Jino <br>Said</h2>
 					<p class="mt-4 mb-5">“Nigerians have experienced both the APC and the PDP and they are disappointed .Their choice,of course ,is PRP ,the party they know is for the poor masses and has wefare programmes that will take care of the poor.”</p>
 
-					<a href="service.html" class="btn btn-main-2 btn-round-full btn-icon">Services<i class="icofont-simple-right ml-3"></i></a>
+					<a href="#" class="btn btn-main-2 btn-round-full btn-icon">Vote Imran Jino<i class="icofont-simple-right ml-3"></i></a>
 				</div>
 			</div>
 		</div>
@@ -579,7 +574,7 @@ require_once 'info.php';
 			</div>
 			<div class="modal-footer">
 			<button type="button" class="btn btn-main-2 btn-icon btn-round" data-dismiss="modal">Close</button>
-			<input type="submit" name="submit">
+			<input type="submit" name="submit" class="btn-main-2 btn-icon btn-round">
 			</div>
 		</form>
 	</div>
