@@ -82,7 +82,7 @@
 				<div class="block">
 					<div class="divider mb-3"></div>
 					<span class="text-uppercase text-sm letter-spacing ">PRP Gubernatorial Candidate</span>
-					<h1 class="mb-3 mt-3">Your most trusted Governor Aspirant</h1>
+					<h1 class="mb-3 mt-3">Your most trusted Governor Aspirant for Katsina State</h1>
 					
 					<p class="mb-4 pr-5">The most verified, Sustaining the quality of Katsina through integrity, honesty, and experience.</p>
 					<div class="btn-container ">
